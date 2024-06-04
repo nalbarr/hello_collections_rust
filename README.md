@@ -1,2 +1,2 @@
-# rust-new-project-template
-rust-new-project-template
+# hello_collections_rust
+hello_collections_rust
