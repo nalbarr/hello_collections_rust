@@ -34,7 +34,7 @@ fn main() {
                 println!("shape name is: {}", "triangle");
             }
             "rectangle1" => {
-                println!("shape name is: {}", "");
+                println!("shape name is: {}", "rectangle");
             }
             _ => {
                 panic!("unknown shape name");
